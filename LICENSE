@@ -1,0 +1,69 @@
+PLANIFICADOR VISUAL TEA
+Aplicación de planificación visual con pictogramas ARASAAC para alumnado con TEA
+CEIP Plurilingüe Santo Estevo de Parga (Galicia)
+
+Idea, deseño pedagóxico e planificación: Eva C. Varela
+ORCID: https://orcid.org/0009-0008-4320-4886
+Programación: Claude (Anthropic)
+
+Copyright (c) 2026 Eva C. Varela
+
+================================================================================
+ESTE PROXECTO DISTRIBÚESE BAIXO DÚAS LICENZAS
+================================================================================
+
+1) CONCEPTO, DESEÑO PEDAGÓXICO E PLANIFICACIÓN da aplicación de planificación
+   visual (a idea, a estrutura de paneis, as pautas de uso de pictogramas,
+   o sistema de anticipación e os criterios de adaptación ao alumnado con TEA):
+
+   Licenza Creative Commons Recoñecemento 4.0 Internacional (CC BY 4.0)
+   https://creativecommons.org/licenses/by/4.0/deed.gl
+
+   Permítese copiar, distribuír, adaptar e implementar a aplicación, mesmo
+   noutros centros educativos e mesmo con fins comerciais, sempre que se
+   manteña o recoñecemento da autoría de Eva C. Varela.
+
+2) CÓDIGO FONTE (os ficheiros HTML, CSS e JavaScript que fan funcionar a
+   aplicación):
+
+   Licenza MIT (texto oficial a continuación).
+
+================================================================================
+NOTA SOBRE OS PICTOGRAMAS ARASAAC
+================================================================================
+
+Os pictogramas utilizados nesta aplicación pertencen ao sistema ARASAAC
+(Aragonese Portal of Augmentative and Alternative Communication):
+https://arasaac.org
+
+Os pictogramas ARASAAC están baixo licenza Creative Commons BY-NC-SA 4.0.
+O Goberno de Aragón é o titular dos dereitos sobre os pictogramas ARASAAC.
+
+Esta aplicación non redistribúe os pictogramas: accédese a eles en liña
+a través das URL públicas de ARASAAC (static.arasaac.org).
+
+================================================================================
+LICENZA MIT (CÓDIGO FONTE)
+================================================================================
+
+MIT License
+
+Copyright (c) 2026 Eva C. Varela
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
